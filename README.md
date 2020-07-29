@@ -44,6 +44,10 @@ Executez la commande ``npm install --save react-router-dom`` Ensuite
             </Router>`` 
 - 3- importer nos different composant enfant dans le composant parent
 
+            ``import Home from '../Component/Home';
+            import Contact from '../Component/Contact';
+            import About from '../Component/About';`` 
+
 
 ## Auteurs
 Listez le(s) auteur(s) du projet ici !
