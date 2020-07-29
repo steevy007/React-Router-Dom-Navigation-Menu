@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+body{
+    font-size: 18px;
+    font-family: 'Cormorant Garamond', serif;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-family: 'Poiret One', cursive;
+}
+h3{
+    color:blue;
+}
+*{
+    box-sizing: border-box;
+}
+nav{
+    background-color: whitesmoke;
+    width: 100%;
+    padding: 1rem 0rem;
+    border-bottom:2px solid rgb(30,30,30);
+}
+ nav{
+    text-align: center;
+}
+nav ul{
+    margin:0;
+    text-align: center;
+}
+nav ul li {
+    display: inline-block;
+}
+ nav ul li .link{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 25px;
+    padding: 0.99rem 1.5rem;
+    color:rgb(30,30,30);
+    
+}
+nav ul li a:hover{
+    background-color: white;
+}
+.wrapper{
+    width: 90%;
+    margin: auto;
+    padding: auto;
+}
+
+@media only screen and (max-width: 760px) {
+     nav ul li .link{
+        font-size:16px;
+
+    }
+}
