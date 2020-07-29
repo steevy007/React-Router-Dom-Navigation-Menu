@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/steevy007/React-Router-Dom-Navigation-Menu/static/css/main.40364417.chunk.css",
-    "main.js": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/main.bc316d23.chunk.js",
-    "main.js.map": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/main.bc316d23.chunk.js.map",
-    "runtime-main.js": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/runtime-main.f0d9b304.js",
-    "runtime-main.js.map": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/runtime-main.f0d9b304.js.map",
-    "static/js/2.ada664df.chunk.js": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/2.ada664df.chunk.js",
-    "static/js/2.ada664df.chunk.js.map": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/2.ada664df.chunk.js.map",
-    "index.html": "/steevy007/React-Router-Dom-Navigation-Menu/index.html",
-    "precache-manifest.9473e613f54cb3b14f2fc41c5e823520.js": "/steevy007/React-Router-Dom-Navigation-Menu/precache-manifest.9473e613f54cb3b14f2fc41c5e823520.js",
-    "service-worker.js": "/steevy007/React-Router-Dom-Navigation-Menu/service-worker.js",
-    "static/css/main.40364417.chunk.css.map": "/steevy007/React-Router-Dom-Navigation-Menu/static/css/main.40364417.chunk.css.map",
-    "static/js/2.ada664df.chunk.js.LICENSE.txt": "/steevy007/React-Router-Dom-Navigation-Menu/static/js/2.ada664df.chunk.js.LICENSE.txt"
+    "main.css": "/React-Router-Dom-Navigation-Menu/static/css/main.40364417.chunk.css",
+    "main.js": "/React-Router-Dom-Navigation-Menu/static/js/main.1a9896f3.chunk.js",
+    "main.js.map": "/React-Router-Dom-Navigation-Menu/static/js/main.1a9896f3.chunk.js.map",
+    "runtime-main.js": "/React-Router-Dom-Navigation-Menu/static/js/runtime-main.3a574291.js",
+    "runtime-main.js.map": "/React-Router-Dom-Navigation-Menu/static/js/runtime-main.3a574291.js.map",
+    "static/js/2.ada664df.chunk.js": "/React-Router-Dom-Navigation-Menu/static/js/2.ada664df.chunk.js",
+    "static/js/2.ada664df.chunk.js.map": "/React-Router-Dom-Navigation-Menu/static/js/2.ada664df.chunk.js.map",
+    "index.html": "/React-Router-Dom-Navigation-Menu/index.html",
+    "precache-manifest.da075ad8273a65640de05154cdd45304.js": "/React-Router-Dom-Navigation-Menu/precache-manifest.da075ad8273a65640de05154cdd45304.js",
+    "service-worker.js": "/React-Router-Dom-Navigation-Menu/service-worker.js",
+    "static/css/main.40364417.chunk.css.map": "/React-Router-Dom-Navigation-Menu/static/css/main.40364417.chunk.css.map",
+    "static/js/2.ada664df.chunk.js.LICENSE.txt": "/React-Router-Dom-Navigation-Menu/static/js/2.ada664df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f0d9b304.js",
+    "static/js/runtime-main.3a574291.js",
     "static/js/2.ada664df.chunk.js",
     "static/css/main.40364417.chunk.css",
-    "static/js/main.bc316d23.chunk.js"
+    "static/js/main.1a9896f3.chunk.js"
   ]
 }
