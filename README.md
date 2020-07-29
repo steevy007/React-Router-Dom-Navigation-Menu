@@ -27,7 +27,7 @@ Executez la commande ``npm install --save react-router-dom`` Ensuite
 
 - 2- Utilisation de l'objet Router pour definir nos different Route qui est aussi un objet suivez l'exemple qui suit
 
-            ``<Router>
+            <Router>
                 <nav>
                     <ul>
                         <li><Link to={'/Home'} className="link">Home</Link></li>
@@ -41,12 +41,12 @@ Executez la commande ``npm install --save react-router-dom`` Ensuite
                 <Route path='/Contact' component={Contact} />
                 <Route path='/About' component={About} />
              </Switch>
-            </Router>`` 
+            </Router>
 - 3- importer nos different composant enfant dans le composant parent
 
-            ``import Home from '../Component/Home';
+            import Home from '../Component/Home';
             import Contact from '../Component/Contact';
-            import About from '../Component/About';`` 
+            import About from '../Component/About';
 
 
 ## Auteurs
