@@ -4,7 +4,6 @@ function App() {
   return (
     <div className="App">
         <Menu/>
-        <h1>je suis steeve</h1>
     </div>
   );
 }
