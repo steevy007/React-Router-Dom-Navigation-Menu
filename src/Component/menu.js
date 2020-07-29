@@ -10,14 +10,14 @@ function Menu(){
             <Router>
                 <nav>
                     <ul>
-                        <li><Link to={'/Home'} className="link">Home</Link></li>
+                        <li><Link to={'/'} className="link">Home</Link></li>
                         <li><Link to={'/Contact'} className="link">Contact</Link></li>
                         <li><Link to={'/About'} className="link">About</Link></li>
                        
                     </ul>
                 </nav>
             <Switch>
-                <Route exact path='/Home' component={Home} />
+                <Route exact path='/' component={Home} />
                 <Route path='/Contact' component={Contact} />
                 <Route path='/About' component={About} />
              </Switch>
